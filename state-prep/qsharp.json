@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "StatePrep": {
+      "path": "..\\..\\quantum-programming-in-depth\\2_state_preparation\\qsharp\\05_prep_multi_qubit"
+    }
+  }
+}
